@@ -4,4 +4,4 @@ Quick team workflow guide:
 - Step 2: Before commence any work, update your local repository to the newest commit by this command: "git pull"
 - Step 2: Work on your allocated file(s).
 - Step 3: Regularly push your work to GitHub by: "git push origin master"
-- Useful link: http://rogerdudler.github.io/git-guide/ 
+- Useful links: http://rogerdudler.github.io/git-guide/ | https://www.atlassian.com/git/tutorials/comparing-workflows
