@@ -5,3 +5,4 @@ Quick team workflow guide:
 - Step 2: Work on your allocated file(s).
 - Step 3: Regularly commit and push your work to GitHub by: "git push origin master"
 - Useful links: http://rogerdudler.github.io/git-guide/ | https://www.atlassian.com/git/tutorials/comparing-workflows
+- Update 07/04/19: group webpage https://duykhuongdiep.github.io/TeamAssessment2/ 
